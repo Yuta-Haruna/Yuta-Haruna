@@ -14,3 +14,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yuta-Haruna&theme=flat&column=7">
 </p>
+
+<!-- [Anurag's GitHub stats] -->
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=Yuta-Haruna&theme=solarized-light&border_radius=5&locale=ja&date_format=%5BY.%5Dn.j&card_width=750">
+</p>
