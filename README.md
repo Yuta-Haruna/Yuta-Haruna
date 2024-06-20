@@ -1,4 +1,4 @@
-# Yuta-Haruna
+## Yuta-Haruna
 
 <p align="center"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuta-Haruna&layout=compact&show_icons=true&theme=gruvbox_light&" />
