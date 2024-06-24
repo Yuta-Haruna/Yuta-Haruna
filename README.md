@@ -1,4 +1,8 @@
 ## Yuta-Haruna
+<!-- komarev.com -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Yuta-Haruna">
+</p>
 
 <p align="center"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuta-Haruna&layout=compact&show_icons=true&theme=gruvbox_light&" />
@@ -19,3 +23,4 @@
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com?user=Yuta-Haruna&theme=solarized-light&border_radius=5&locale=ja&date_format=%5BY.%5Dn.j&card_width=750">
 </p>
+
